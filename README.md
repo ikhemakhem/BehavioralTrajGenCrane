@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Complementary Material
 
 This folder contains the supplementary MATLAB code and data for the behavioral data-driven trajectory-generation method.
@@ -8,7 +8,7 @@ This folder contains the supplementary MATLAB code and data for the behavioral d
 
 - `data/`
   Bundled data used by the scripts.
-- `utils/`
+- model_based/`
   MATLAB helper functions for data processing, behavioral simulation, and trajectory generation.
 - `utils/` 
    scrit used for the comparison with model-based benchmark.
