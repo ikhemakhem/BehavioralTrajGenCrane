@@ -1,0 +1,1500 @@
+image time: 2024-06-22 18:38:44.620
+The current time is: 999
+Sending data: 0
+image time: 2024-06-22 18:38:44.683
+The current time is: 999
+Sending data: -4.1507e-07
+image time: 2024-06-22 18:38:44.732
+The current time is: 999
+Sending data: -2.5173e-06
+image time: 2024-06-22 18:38:44.779
+The current time is: 44.805
+Sending data: -4.4838e-06
+image time: 2024-06-22 18:38:44.844
+The current time is: 44.8649
+Sending data: 4.71e-07
+image time: 2024-06-22 18:38:44.891
+The current time is: 44.9141
+Sending data: 2.2648e-05
+image time: 2024-06-22 18:38:44.939
+The current time is: 44.9611
+Sending data: 7.2436e-05
+image time: 2024-06-22 18:38:44.987
+The current time is: 45.0084
+Sending data: 0.00015719
+image time: 2024-06-22 18:38:45.051
+The current time is: 45.0742
+Sending data: 0.00028076
+image time: 2024-06-22 18:38:45.099
+The current time is: 45.1225
+Sending data: 0.00044679
+image time: 2024-06-22 18:38:45.147
+The current time is: 45.1705
+Sending data: 0.0006647
+image time: 2024-06-22 18:38:45.195
+The current time is: 45.2189
+Sending data: 0.00095536
+image time: 2024-06-22 18:38:45.259
+The current time is: 45.2828
+Sending data: 0.0013531
+image time: 2024-06-22 18:38:45.308
+The current time is: 45.3321
+Sending data: 0.0019018
+image time: 2024-06-22 18:38:45.355
+The current time is: 45.3802
+Sending data: 0.0026461
+image time: 2024-06-22 18:38:45.404
+The current time is: 45.4255
+Sending data: 0.0036209
+image time: 2024-06-22 18:38:45.467
+The current time is: 45.4892
+Sending data: 0.0048438
+image time: 2024-06-22 18:38:45.516
+The current time is: 45.5396
+Sending data: 0.0063156
+image time: 2024-06-22 18:38:45.563
+The current time is: 45.5855
+Sending data: 0.0080284
+image time: 2024-06-22 18:38:45.627
+The current time is: 45.6498
+Sending data: 0.0099779
+image time: 2024-06-22 18:38:45.675
+The current time is: 45.6966
+Sending data: 0.012175
+image time: 2024-06-22 18:38:45.723
+The current time is: 45.7453
+Sending data: 0.014647
+image time: 2024-06-22 18:38:45.772
+The current time is: 45.794
+Sending data: 0.017434
+image time: 2024-06-22 18:38:45.835
+The current time is: 45.8574
+Sending data: 0.020569
+image time: 2024-06-22 18:38:45.886
+The current time is: 45.9099
+Sending data: 0.024062
+image time: 2024-06-22 18:38:45.931
+The current time is: 45.9535
+Sending data: 0.027887
+image time: 2024-06-22 18:38:45.979
+The current time is: 46.001
+Sending data: 0.031982
+image time: 2024-06-22 18:38:46.043
+The current time is: 46.0648
+Sending data: 0.036262
+image time: 2024-06-22 18:38:46.091
+The current time is: 46.1131
+Sending data: 0.040632
+image time: 2024-06-22 18:38:46.139
+The current time is: 46.1611
+Sending data: 0.045
+image time: 2024-06-22 18:38:46.203
+The current time is: 46.2268
+Sending data: 0.049281
+image time: 2024-06-22 18:38:46.251
+The current time is: 46.2733
+Sending data: 0.053385
+image time: 2024-06-22 18:38:46.300
+The current time is: 46.3213
+Sending data: 0.0572
+image time: 2024-06-22 18:38:46.347
+The current time is: 46.3692
+Sending data: 0.060586
+image time: 2024-06-22 18:38:46.412
+The current time is: 46.4334
+Sending data: 0.063371
+image time: 2024-06-22 18:38:46.459
+The current time is: 46.4813
+Sending data: 0.065381
+image time: 2024-06-22 18:38:46.508
+The current time is: 46.533
+Sending data: 0.066469
+image time: 2024-06-22 18:38:46.555
+The current time is: 46.5766
+Sending data: 0.066557
+image time: 2024-06-22 18:38:46.620
+The current time is: 46.641
+Sending data: 0.065651
+image time: 2024-06-22 18:38:46.667
+The current time is: 46.6887
+Sending data: 0.063841
+image time: 2024-06-22 18:38:46.715
+The current time is: 46.7383
+Sending data: 0.061279
+image time: 2024-06-22 18:38:46.779
+The current time is: 46.8002
+Sending data: 0.058135
+image time: 2024-06-22 18:38:46.827
+The current time is: 46.8504
+Sending data: 0.054566
+image time: 2024-06-22 18:38:46.875
+The current time is: 46.8962
+Sending data: 0.050695
+image time: 2024-06-22 18:38:46.923
+The current time is: 46.9457
+Sending data: 0.046608
+image time: 2024-06-22 18:38:46.987
+The current time is: 47.0101
+Sending data: 0.042368
+image time: 2024-06-22 18:38:47.035
+The current time is: 47.0578
+Sending data: 0.038025
+image time: 2024-06-22 18:38:47.083
+The current time is: 47.1054
+Sending data: 0.033623
+image time: 2024-06-22 18:38:47.132
+The current time is: 47.1542
+Sending data: 0.029184
+image time: 2024-06-22 18:38:47.196
+The current time is: 47.2167
+Sending data: 0.024703
+image time: 2024-06-22 18:38:47.243
+The current time is: 47.2646
+Sending data: 0.020133
+image time: 2024-06-22 18:38:47.291
+The current time is: 47.313
+Sending data: 0.015407
+image time: 2024-06-22 18:38:47.339
+The current time is: 47.3596
+Sending data: 0.010473
+image time: 2024-06-22 18:38:47.403
+The current time is: 47.425
+Sending data: 0.0053438
+image time: 2024-06-22 18:38:47.452
+The current time is: 47.4728
+Sending data: 0.00013543
+image time: 2024-06-22 18:38:47.499
+The current time is: 47.5204
+Sending data: -0.0049299
+image time: 2024-06-22 18:38:47.563
+The current time is: 47.5851
+Sending data: -0.0095651
+image time: 2024-06-22 18:38:47.611
+The current time is: 47.6324
+Sending data: -0.013499
+image time: 2024-06-22 18:38:47.660
+The current time is: 47.6814
+Sending data: -0.016567
+image time: 2024-06-22 18:38:47.707
+The current time is: 47.7298
+Sending data: -0.018781
+image time: 2024-06-22 18:38:47.771
+The current time is: 47.7947
+Sending data: -0.020343
+image time: 2024-06-22 18:38:47.820
+The current time is: 47.8418
+Sending data: -0.021594
+image time: 2024-06-22 18:38:47.867
+The current time is: 47.8878
+Sending data: -0.022907
+image time: 2024-06-22 18:38:47.916
+The current time is: 47.9384
+Sending data: -0.02457
+image time: 2024-06-22 18:38:47.979
+The current time is: 48.001
+Sending data: -0.026686
+image time: 2024-06-22 18:38:48.027
+The current time is: 48.0483
+Sending data: -0.029146
+image time: 2024-06-22 18:38:48.075
+The current time is: 48.0964
+Sending data: -0.031667
+image time: 2024-06-22 18:38:48.139
+The current time is: 48.1616
+Sending data: -0.033904
+image time: 2024-06-22 18:38:48.187
+The current time is: 48.2091
+Sending data: -0.035574
+image time: 2024-06-22 18:38:48.235
+The current time is: 48.258
+Sending data: -0.036571
+image time: 2024-06-22 18:38:48.283
+The current time is: 48.3064
+Sending data: -0.037012
+image time: 2024-06-22 18:38:48.348
+The current time is: 48.3692
+Sending data: -0.037212
+image time: 2024-06-22 18:38:48.395
+The current time is: 48.4185
+Sending data: -0.037588
+image time: 2024-06-22 18:38:48.443
+The current time is: 48.4655
+Sending data: -0.038531
+image time: 2024-06-22 18:38:48.491
+The current time is: 48.5138
+Sending data: -0.040287
+image time: 2024-06-22 18:38:48.555
+The current time is: 48.5777
+Sending data: -0.042885
+image time: 2024-06-22 18:38:48.603
+The current time is: 48.624
+Sending data: -0.046165
+image time: 2024-06-22 18:38:48.651
+The current time is: 48.6719
+Sending data: -0.049797
+image time: 2024-06-22 18:38:48.715
+The current time is: 48.7363
+Sending data: -0.053409
+image time: 2024-06-22 18:38:48.763
+The current time is: 48.785
+Sending data: -0.056711
+image time: 2024-06-22 18:38:48.811
+The current time is: 48.8325
+Sending data: -0.059575
+image time: 2024-06-22 18:38:48.859
+The current time is: 48.8803
+Sending data: -0.06207
+image time: 2024-06-22 18:38:48.924
+The current time is: 48.9479
+Sending data: -0.06442
+image time: 2024-06-22 18:38:48.971
+The current time is: 48.9935
+Sending data: -0.066921
+image time: 2024-06-22 18:38:49.019
+The current time is: 49.041
+Sending data: -0.06984
+image time: 2024-06-22 18:38:49.068
+The current time is: 49.0898
+Sending data: -0.073328
+image time: 2024-06-22 18:38:49.132
+The current time is: 49.1543
+Sending data: -0.077394
+image time: 2024-06-22 18:38:49.180
+The current time is: 49.2
+Sending data: -0.081918
+image time: 2024-06-22 18:38:49.228
+The current time is: 49.2496
+Sending data: -0.086729
+image time: 2024-06-22 18:38:49.292
+The current time is: 49.3132
+Sending data: -0.091675
+image time: 2024-06-22 18:38:49.339
+The current time is: 49.361
+Sending data: -0.096686
+image time: 2024-06-22 18:38:49.387
+The current time is: 49.409
+Sending data: -0.10178
+image time: 2024-06-22 18:38:49.436
+The current time is: 49.4569
+Sending data: -0.107
+image time: 2024-06-22 18:38:49.499
+The current time is: 49.5203
+Sending data: -0.11237
+image time: 2024-06-22 18:38:49.547
+The current time is: 49.569
+Sending data: -0.11776
+image time: 2024-06-22 18:38:49.596
+The current time is: 49.6165
+Sending data: -0.1229
+image time: 2024-06-22 18:38:49.643
+The current time is: 49.6644
+Sending data: -0.12738
+image time: 2024-06-22 18:38:49.708
+The current time is: 49.7297
+Sending data: -0.13073
+image time: 2024-06-22 18:38:49.755
+The current time is: 49.7776
+Sending data: -0.13258
+image time: 2024-06-22 18:38:49.803
+The current time is: 49.8249
+Sending data: -0.13269
+image time: 2024-06-22 18:38:49.851
+The current time is: 49.8729
+Sending data: -0.13108
+image time: 2024-06-22 18:38:49.915
+The current time is: 49.9382
+Sending data: -0.12795
+image time: 2024-06-22 18:38:49.963
+The current time is: 49.9859
+Sending data: -0.12362
+image time: 2024-06-22 18:38:50.011
+The current time is: 50.0335
+Sending data: -0.1184
+image time: 2024-06-22 18:38:50.075
+The current time is: 50.0984
+Sending data: -0.1125
+image time: 2024-06-22 18:38:50.123
+The current time is: 50.1445
+Sending data: -0.10599
+image time: 2024-06-22 18:38:50.171
+The current time is: 50.1937
+Sending data: -0.098793
+image time: 2024-06-22 18:38:50.219
+The current time is: 50.2409
+Sending data: -0.090823
+image time: 2024-06-22 18:38:50.283
+The current time is: 50.3048
+Sending data: -0.082027
+image time: 2024-06-22 18:38:50.331
+The current time is: 50.3531
+Sending data: -0.072471
+image time: 2024-06-22 18:38:50.379
+The current time is: 50.4011
+Sending data: -0.062353
+image time: 2024-06-22 18:38:50.427
+The current time is: 50.4494
+Sending data: -0.051956
+image time: 2024-06-22 18:38:50.491
+The current time is: 50.5137
+Sending data: -0.041581
+image time: 2024-06-22 18:38:50.539
+The current time is: 50.5605
+Sending data: -0.03147
+image time: 2024-06-22 18:38:50.587
+The current time is: 50.6085
+Sending data: -0.021775
+image time: 2024-06-22 18:38:50.651
+The current time is: 50.6728
+Sending data: -0.012556
+image time: 2024-06-22 18:38:50.699
+The current time is: 50.7211
+Sending data: -0.0038303
+image time: 2024-06-22 18:38:50.747
+The current time is: 50.7692
+Sending data: 0.0043885
+image time: 2024-06-22 18:38:50.795
+The current time is: 50.8178
+Sending data: 0.012056
+image time: 2024-06-22 18:38:50.859
+The current time is: 50.8804
+Sending data: 0.019102
+image time: 2024-06-22 18:38:50.907
+The current time is: 50.9287
+Sending data: 0.025464
+image time: 2024-06-22 18:38:50.955
+The current time is: 50.9765
+Sending data: 0.031121
+image time: 2024-06-22 18:38:51.004
+The current time is: 51.026
+Sending data: 0.036115
+image time: 2024-06-22 18:38:51.068
+The current time is: 51.0888
+Sending data: 0.040536
+image time: 2024-06-22 18:38:51.116
+The current time is: 51.1393
+Sending data: 0.04448
+image time: 2024-06-22 18:38:51.163
+The current time is: 51.185
+Sending data: 0.047995
+image time: 2024-06-22 18:38:51.227
+The current time is: 51.2494
+Sending data: 0.051061
+image time: 2024-06-22 18:38:51.275
+The current time is: 51.2993
+Sending data: 0.053594
+image time: 2024-06-22 18:38:51.323
+The current time is: 51.3457
+Sending data: 0.055508
+image time: 2024-06-22 18:38:51.371
+The current time is: 51.3935
+Sending data: 0.056779
+image time: 2024-06-22 18:38:51.435
+The current time is: 51.4569
+Sending data: 0.057507
+image time: 2024-06-22 18:38:51.483
+The current time is: 51.5061
+Sending data: 0.057924
+image time: 2024-06-22 18:38:51.532
+The current time is: 51.5522
+Sending data: 0.058341
+image time: 2024-06-22 18:38:51.579
+The current time is: 51.6
+Sending data: 0.059054
+image time: 2024-06-22 18:38:51.643
+The current time is: 51.6664
+Sending data: 0.060243
+image time: 2024-06-22 18:38:51.691
+The current time is: 51.7123
+Sending data: 0.061903
+image time: 2024-06-22 18:38:51.739
+The current time is: 51.7596
+Sending data: 0.063844
+image time: 2024-06-22 18:38:51.787
+The current time is: 51.8085
+Sending data: 0.065761
+image time: 2024-06-22 18:38:51.852
+The current time is: 51.8738
+Sending data: 0.067352
+image time: 2024-06-22 18:38:51.899
+The current time is: 51.9202
+Sending data: 0.068437
+image time: 2024-06-22 18:38:51.948
+The current time is: 51.9692
+Sending data: 0.069039
+image time: 2024-06-22 18:38:52.011
+The current time is: 52.0325
+Sending data: 0.069379
+image time: 2024-06-22 18:38:52.059
+The current time is: 52.0813
+Sending data: 0.069813
+image time: 2024-06-22 18:38:52.108
+The current time is: 52.1288
+Sending data: 0.070702
+image time: 2024-06-22 18:38:52.155
+The current time is: 52.1766
+Sending data: 0.072292
+image time: 2024-06-22 18:38:52.219
+The current time is: 52.241
+Sending data: 0.074626
+image time: 2024-06-22 18:38:52.267
+The current time is: 52.2888
+Sending data: 0.077529
+image time: 2024-06-22 18:38:52.315
+The current time is: 52.3373
+Sending data: 0.080659
+image time: 2024-06-22 18:38:52.363
+The current time is: 52.3842
+Sending data: 0.083613
+image time: 2024-06-22 18:38:52.428
+The current time is: 52.4491
+Sending data: 0.086042
+image time: 2024-06-22 18:38:52.475
+The current time is: 52.4968
+Sending data: 0.087744
+image time: 2024-06-22 18:38:52.523
+The current time is: 52.546
+Sending data: 0.088701
+image time: 2024-06-22 18:38:52.571
+The current time is: 52.5939
+Sending data: 0.089071
+image time: 2024-06-22 18:38:52.635
+The current time is: 52.6579
+Sending data: 0.089116
+image time: 2024-06-22 18:38:52.683
+The current time is: 52.7046
+Sending data: 0.089124
+image time: 2024-06-22 18:38:52.731
+The current time is: 52.7553
+Sending data: 0.089333
+image time: 2024-06-22 18:38:52.796
+The current time is: 52.8175
+Sending data: 0.089877
+image time: 2024-06-22 18:38:52.843
+The current time is: 52.8652
+Sending data: 0.090781
+image time: 2024-06-22 18:38:52.891
+The current time is: 52.9122
+Sending data: 0.091985
+image time: 2024-06-22 18:38:52.939
+The current time is: 52.9613
+Sending data: 0.09339
+image time: 2024-06-22 18:38:53.004
+The current time is: 53.0254
+Sending data: 0.094903
+image time: 2024-06-22 18:38:53.051
+The current time is: 53.0742
+Sending data: 0.096451
+image time: 2024-06-22 18:38:53.099
+The current time is: 53.1207
+Sending data: 0.097978
+image time: 2024-06-22 18:38:53.147
+The current time is: 53.1686
+Sending data: 0.099401
+image time: 2024-06-22 18:38:53.211
+The current time is: 53.2329
+Sending data: 0.10056
+image time: 2024-06-22 18:38:53.259
+The current time is: 53.2828
+Sending data: 0.10119
+image time: 2024-06-22 18:38:53.307
+The current time is: 53.3291
+Sending data: 0.10092
+image time: 2024-06-22 18:38:53.372
+The current time is: 53.3941
+Sending data: 0.099356
+image time: 2024-06-22 18:38:53.419
+The current time is: 53.4413
+Sending data: 0.096142
+image time: 2024-06-22 18:38:53.467
+The current time is: 53.4893
+Sending data: 0.091113
+image time: 2024-06-22 18:38:53.515
+The current time is: 53.5371
+Sending data: 0.084361
+image time: 2024-06-22 18:38:53.579
+The current time is: 53.6008
+Sending data: 0.07626
+image time: 2024-06-22 18:38:53.627
+The current time is: 53.6491
+Sending data: 0.067396
+image time: 2024-06-22 18:38:53.676
+The current time is: 53.6982
+Sending data: 0.058434
+image time: 2024-06-22 18:38:53.723
+The current time is: 53.7461
+Sending data: 0.049945
+image time: 2024-06-22 18:38:53.787
+The current time is: 53.8119
+Sending data: 0.04226
+image time: 2024-06-22 18:38:53.835
+The current time is: 53.8562
+Sending data: 0.035398
+image time: 2024-06-22 18:38:53.884
+The current time is: 53.9062
+Sending data: 0.029085
+image time: 2024-06-22 18:38:53.931
+The current time is: 53.9525
+Sending data: 0.022875
+image time: 2024-06-22 18:38:53.995
+The current time is: 54.0184
+Sending data: 0.016312
+image time: 2024-06-22 18:38:54.043
+The current time is: 54.0657
+Sending data: 0.0090793
+image time: 2024-06-22 18:38:54.091
+The current time is: 54.1128
+Sending data: 0.001099
+image time: 2024-06-22 18:38:54.156
+The current time is: 54.179
+Sending data: -0.0074679
+image time: 2024-06-22 18:38:54.203
+The current time is: 54.2253
+Sending data: -0.016292
+image time: 2024-06-22 18:38:54.251
+The current time is: 54.2743
+Sending data: -0.024988
+image time: 2024-06-22 18:38:54.299
+The current time is: 54.3207
+Sending data: -0.033224
+image time: 2024-06-22 18:38:54.363
+The current time is: 54.3845
+Sending data: -0.040786
+image time: 2024-06-22 18:38:54.411
+The current time is: 54.434
+Sending data: -0.047579
+image time: 2024-06-22 18:38:54.460
+The current time is: 54.4829
+Sending data: -0.053594
+image time: 2024-06-22 18:38:54.507
+The current time is: 54.5302
+Sending data: -0.058857
+image time: 2024-06-22 18:38:54.571
+The current time is: 54.594
+Sending data: -0.063398
+image time: 2024-06-22 18:38:54.620
+The current time is: 54.6413
+Sending data: -0.067247
+image time: 2024-06-22 18:38:54.667
+The current time is: 54.6893
+Sending data: -0.070462
+image time: 2024-06-22 18:38:54.715
+The current time is: 54.7367
+Sending data: -0.073158
+image time: 2024-06-22 18:38:54.779
+The current time is: 54.8005
+Sending data: -0.075505
+image time: 2024-06-22 18:38:54.827
+The current time is: 54.8498
+Sending data: -0.0777
+image time: 2024-06-22 18:38:54.875
+The current time is: 54.8978
+Sending data: -0.079911
+image time: 2024-06-22 18:38:54.940
+The current time is: 54.9621
+Sending data: -0.082218
+image time: 2024-06-22 18:38:54.987
+The current time is: 55.01
+Sending data: -0.084585
+image time: 2024-06-22 18:38:55.035
+The current time is: 55.0574
+Sending data: -0.086882
+image time: 2024-06-22 18:38:55.083
+The current time is: 55.1052
+Sending data: -0.088945
+image time: 2024-06-22 18:38:55.147
+The current time is: 55.1695
+Sending data: -0.090654
+image time: 2024-06-22 18:38:55.196
+The current time is: 55.2164
+Sending data: -0.091984
+image time: 2024-06-22 18:38:55.243
+The current time is: 55.266
+Sending data: -0.093016
+image time: 2024-06-22 18:38:55.291
+The current time is: 55.3147
+Sending data: -0.093887
+image time: 2024-06-22 18:38:55.356
+The current time is: 55.3805
+Sending data: -0.094711
+image time: 2024-06-22 18:38:55.403
+The current time is: 55.4265
+Sending data: -0.095505
+image time: 2024-06-22 18:38:55.451
+The current time is: 55.4734
+Sending data: -0.096161
+image time: 2024-06-22 18:38:55.499
+The current time is: 55.5198
+Sending data: -0.096479
+image time: 2024-06-22 18:38:55.563
+The current time is: 55.5863
+Sending data: -0.096257
+image time: 2024-06-22 18:38:55.612
+The current time is: 55.6332
+Sending data: -0.095382
+image time: 2024-06-22 18:38:55.659
+The current time is: 55.6812
+Sending data: -0.093908
+image time: 2024-06-22 18:38:55.723
+The current time is: 55.7446
+Sending data: -0.092052
+image time: 2024-06-22 18:38:55.772
+The current time is: 55.7933
+Sending data: -0.090128
+image time: 2024-06-22 18:38:55.819
+The current time is: 55.8398
+Sending data: -0.088433
+image time: 2024-06-22 18:38:55.867
+The current time is: 55.8886
+Sending data: -0.087129
+image time: 2024-06-22 18:38:55.932
+The current time is: 55.954
+Sending data: -0.086184
+image time: 2024-06-22 18:38:55.980
+The current time is: 56.0017
+Sending data: -0.085377
+image time: 2024-06-22 18:38:56.028
+The current time is: 56.0503
+Sending data: -0.084383
+image time: 2024-06-22 18:38:56.076
+The current time is: 56.0981
+Sending data: -0.0829
+image time: 2024-06-22 18:38:56.139
+The current time is: 56.1605
+Sending data: -0.080759
+image time: 2024-06-22 18:38:56.187
+The current time is: 56.2082
+Sending data: -0.077995
+image time: 2024-06-22 18:38:56.235
+The current time is: 56.2577
+Sending data: -0.074832
+image time: 2024-06-22 18:38:56.299
+The current time is: 56.3205
+Sending data: -0.071612
+image time: 2024-06-22 18:38:56.347
+The current time is: 56.369
+Sending data: -0.068688
+image time: 2024-06-22 18:38:56.395
+The current time is: 56.4168
+Sending data: -0.066323
+image time: 2024-06-22 18:38:56.443
+The current time is: 56.4674
+Sending data: -0.064631
+image time: 2024-06-22 18:38:56.508
+The current time is: 56.5305
+Sending data: -0.063567
+image time: 2024-06-22 18:38:56.555
+The current time is: 56.5775
+Sending data: -0.062972
+image time: 2024-06-22 18:38:56.603
+The current time is: 56.6243
+Sending data: -0.062637
+image time: 2024-06-22 18:38:56.651
+The current time is: 56.6737
+Sending data: -0.062359
+image time: 2024-06-22 18:38:56.715
+The current time is: 56.7361
+Sending data: -0.061974
+image time: 2024-06-22 18:38:56.763
+The current time is: 56.7839
+Sending data: -0.061359
+image time: 2024-06-22 18:38:56.811
+The current time is: 56.8334
+Sending data: -0.060403
+image time: 2024-06-22 18:38:56.859
+The current time is: 56.8805
+Sending data: -0.058973
+image time: 2024-06-22 18:38:56.923
+The current time is: 56.9445
+Sending data: -0.056887
+image time: 2024-06-22 18:38:56.971
+The current time is: 56.9955
+Sending data: -0.053918
+image time: 2024-06-22 18:38:57.019
+The current time is: 57.0407
+Sending data: -0.049827
+image time: 2024-06-22 18:38:57.084
+The current time is: 57.1066
+Sending data: -0.044424
+image time: 2024-06-22 18:38:57.131
+The current time is: 57.1529
+Sending data: -0.037642
+image time: 2024-06-22 18:38:57.179
+The current time is: 57.2019
+Sending data: -0.029595
+image time: 2024-06-22 18:38:57.227
+The current time is: 57.2493
+Sending data: -0.020606
+image time: 2024-06-22 18:38:57.291
+The current time is: 57.315
+Sending data: -0.01118
+image time: 2024-06-22 18:38:57.339
+The current time is: 57.3604
+Sending data: -0.0019163
+image time: 2024-06-22 18:38:57.387
+The current time is: 57.4105
+Sending data: 0.0066151
+image time: 2024-06-22 18:38:57.435
+The current time is: 57.4568
+Sending data: 0.014011
+image time: 2024-06-22 18:38:57.499
+The current time is: 57.5245
+Sending data: 0.020146
+image time: 2024-06-22 18:38:57.547
+The current time is: 57.5678
+Sending data: 0.025209
+image time: 2024-06-22 18:38:57.595
+The current time is: 57.6168
+Sending data: 0.029656
+image time: 2024-06-22 18:38:57.643
+The current time is: 57.6652
+Sending data: 0.034082
+image time: 2024-06-22 18:38:57.707
+The current time is: 57.7296
+Sending data: 0.039044
+image time: 2024-06-22 18:38:57.755
+The current time is: 57.7773
+Sending data: 0.0449
+image time: 2024-06-22 18:38:57.803
+The current time is: 57.8254
+Sending data: 0.051698
+image time: 2024-06-22 18:38:57.867
+The current time is: 57.8877
+Sending data: 0.059178
+image time: 2024-06-22 18:38:57.916
+The current time is: 57.939
+Sending data: 0.066857
+image time: 2024-06-22 18:38:57.963
+The current time is: 57.9848
+Sending data: 0.074178
+image time: 2024-06-22 18:38:58.011
+The current time is: 58.0323
+Sending data: 0.080669
+image time: 2024-06-22 18:38:58.075
+The current time is: 58.0972
+Sending data: 0.086047
+image time: 2024-06-22 18:38:58.123
+The current time is: 58.147
+Sending data: 0.090251
+image time: 2024-06-22 18:38:58.171
+The current time is: 58.1944
+Sending data: 0.093391
+image time: 2024-06-22 18:38:58.219
+The current time is: 58.2408
+Sending data: 0.095661
+image time: 2024-06-22 18:38:58.283
+The current time is: 58.3046
+Sending data: 0.097249
+image time: 2024-06-22 18:38:58.331
+The current time is: 58.3539
+Sending data: 0.098298
+image time: 2024-06-22 18:38:58.379
+The current time is: 58.3999
+Sending data: 0.098907
+image time: 2024-06-22 18:38:58.428
+The current time is: 58.4503
+Sending data: 0.099183
+image time: 2024-06-22 18:38:58.491
+The current time is: 58.5152
+Sending data: 0.099278
+image time: 2024-06-22 18:38:58.539
+The current time is: 58.5604
+Sending data: 0.09941
+image time: 2024-06-22 18:38:58.587
+The current time is: 58.6094
+Sending data: 0.099815
+image time: 2024-06-22 18:38:58.652
+The current time is: 58.6729
+Sending data: 0.10068
+image time: 2024-06-22 18:38:58.699
+The current time is: 58.7209
+Sending data: 0.10204
+image time: 2024-06-22 18:38:58.747
+The current time is: 58.7699
+Sending data: 0.10379
+image time: 2024-06-22 18:38:58.795
+The current time is: 58.8178
+Sending data: 0.10565
+image time: 2024-06-22 18:38:58.860
+The current time is: 58.8812
+Sending data: 0.10727
+image time: 2024-06-22 18:38:58.907
+The current time is: 58.9306
+Sending data: 0.10834
+image time: 2024-06-22 18:38:58.955
+The current time is: 58.9764
+Sending data: 0.10867
+image time: 2024-06-22 18:38:59.003
+The current time is: 59.0263
+Sending data: 0.1082
+image time: 2024-06-22 18:38:59.068
+The current time is: 59.0896
+Sending data: 0.10702
+image time: 2024-06-22 18:38:59.115
+The current time is: 59.1381
+Sending data: 0.10522
+image time: 2024-06-22 18:38:59.163
+The current time is: 59.185
+Sending data: 0.10289
+image time: 2024-06-22 18:38:59.211
+The current time is: 59.2344
+Sending data: 0.10002
+image time: 2024-06-22 18:38:59.275
+The current time is: 59.2962
+Sending data: 0.096547
+image time: 2024-06-22 18:38:59.323
+The current time is: 59.3446
+Sending data: 0.092426
+image time: 2024-06-22 18:38:59.372
+The current time is: 59.3945
+Sending data: 0.087675
+image time: 2024-06-22 18:38:59.435
+The current time is: 59.4569
+Sending data: 0.082437
+image time: 2024-06-22 18:38:59.484
+The current time is: 59.5046
+Sending data: 0.076948
+image time: 2024-06-22 18:38:59.531
+The current time is: 59.5521
+Sending data: 0.071473
+image time: 2024-06-22 18:38:59.579
+The current time is: 59.601
+Sending data: 0.066201
+image time: 2024-06-22 18:38:59.643
+The current time is: 59.6653
+Sending data: 0.061183
+image time: 2024-06-22 18:38:59.691
+The current time is: 59.7121
+Sending data: 0.056321
+image time: 2024-06-22 18:38:59.739
+The current time is: 59.7606
+Sending data: 0.051435
+image time: 2024-06-22 18:38:59.787
+The current time is: 59.8097
+Sending data: 0.046371
+image time: 2024-06-22 18:38:59.851
+The current time is: 59.8739
+Sending data: 0.041108
+image time: 2024-06-22 18:38:59.899
+The current time is: 59.9225
+Sending data: 0.0358
+image time: 2024-06-22 18:38:59.947
+The current time is: 59.9701
+Sending data: 0.030747
+image time: 2024-06-22 18:38:59.995
+The current time is: 0.018061
+Sending data: 0.026289
+image time: 2024-06-22 18:39:00.060
+The current time is: 0.08229
+Sending data: 0.022669
+image time: 2024-06-22 18:39:00.107
+The current time is: 0.12902
+Sending data: 0.019931
+image time: 2024-06-22 18:39:00.155
+The current time is: 0.17945
+Sending data: 0.017896
+image time: 2024-06-22 18:39:00.219
+The current time is: 0.24178
+Sending data: 0.016213
+image time: 2024-06-22 18:39:00.267
+The current time is: 0.28876
+Sending data: 0.014493
+image time: 2024-06-22 18:39:00.315
+The current time is: 0.33608
+Sending data: 0.012435
+image time: 2024-06-22 18:39:00.364
+The current time is: 0.38602
+Sending data: 0.0099253
+image time: 2024-06-22 18:39:00.428
+The current time is: 0.44932
+Sending data: 0.0070423
+image time: 2024-06-22 18:39:00.476
+The current time is: 0.49813
+Sending data: 0.0039911
+image time: 2024-06-22 18:39:00.524
+The current time is: 0.5456
+Sending data: 0.00098383
+image time: 2024-06-22 18:39:00.571
+The current time is: 0.59449
+Sending data: -0.001875
+image time: 2024-06-22 18:39:00.635
+The current time is: 0.65777
+Sending data: -0.0046539
+image time: 2024-06-22 18:39:00.683
+The current time is: 0.70704
+Sending data: -0.0075856
+image time: 2024-06-22 18:39:00.732
+The current time is: 0.75618
+Sending data: -0.010989
+image time: 2024-06-22 18:39:00.779
+The current time is: 0.80098
+Sending data: -0.015157
+image time: 2024-06-22 18:39:00.843
+The current time is: 0.8643
+Sending data: -0.020247
+image time: 2024-06-22 18:39:00.891
+The current time is: 0.91321
+Sending data: -0.026215
+image time: 2024-06-22 18:39:00.940
+The current time is: 0.96155
+Sending data: -0.032819
+image time: 2024-06-22 18:39:01.003
+The current time is: 1.0254
+Sending data: -0.039673
+image time: 2024-06-22 18:39:01.051
+The current time is: 1.0737
+Sending data: -0.046346
+image time: 2024-06-22 18:39:01.099
+The current time is: 1.1206
+Sending data: -0.052469
+image time: 2024-06-22 18:39:01.147
+The current time is: 1.171
+Sending data: -0.057826
+image time: 2024-06-22 18:39:01.211
+The current time is: 1.2365
+Sending data: -0.062399
+image time: 2024-06-22 18:39:01.259
+The current time is: 1.2812
+Sending data: -0.066373
+image time: 2024-06-22 18:39:01.307
+The current time is: 1.3313
+Sending data: -0.07008
+image time: 2024-06-22 18:39:01.355
+The current time is: 1.3765
+Sending data: -0.073908
+image time: 2024-06-22 18:39:01.419
+The current time is: 1.4399
+Sending data: -0.078193
+image time: 2024-06-22 18:39:01.468
+The current time is: 1.4896
+Sending data: -0.083117
+image time: 2024-06-22 18:39:01.515
+The current time is: 1.5372
+Sending data: -0.088645
+image time: 2024-06-22 18:39:01.563
+The current time is: 1.584
+Sending data: -0.094518
+image time: 2024-06-22 18:39:01.627
+The current time is: 1.6494
+Sending data: -0.10032
+image time: 2024-06-22 18:39:01.675
+The current time is: 1.6972
+Sending data: -0.10556
+image time: 2024-06-22 18:39:01.723
+The current time is: 1.7453
+Sending data: -0.10985
+image time: 2024-06-22 18:39:01.787
+The current time is: 1.8095
+Sending data: -0.11294
+image time: 2024-06-22 18:39:01.836
+The current time is: 1.8571
+Sending data: -0.11482
+image time: 2024-06-22 18:39:01.883
+The current time is: 1.905
+Sending data: -0.11564
+image time: 2024-06-22 18:39:01.931
+The current time is: 1.9525
+Sending data: -0.11566
+image time: 2024-06-22 18:39:01.995
+The current time is: 2.0173
+Sending data: -0.11516
+image time: 2024-06-22 18:39:02.043
+The current time is: 2.0667
+Sending data: -0.1143
+image time: 2024-06-22 18:39:02.091
+The current time is: 2.1125
+Sending data: -0.11317
+image time: 2024-06-22 18:39:02.139
+The current time is: 2.1621
+Sending data: -0.11178
+image time: 2024-06-22 18:39:02.203
+The current time is: 2.2239
+Sending data: -0.11012
+image time: 2024-06-22 18:39:02.251
+The current time is: 2.2731
+Sending data: -0.10826
+image time: 2024-06-22 18:39:02.299
+The current time is: 2.32
+Sending data: -0.10635
+image time: 2024-06-22 18:39:02.347
+The current time is: 2.3695
+Sending data: -0.10454
+image time: 2024-06-22 18:39:02.411
+The current time is: 2.4323
+Sending data: -0.10296
+image time: 2024-06-22 18:39:02.459
+The current time is: 2.4821
+Sending data: -0.10159
+image time: 2024-06-22 18:39:02.508
+The current time is: 2.5296
+Sending data: -0.10024
+image time: 2024-06-22 18:39:02.571
+The current time is: 2.595
+Sending data: -0.098555
+image time: 2024-06-22 18:39:02.619
+The current time is: 2.6401
+Sending data: -0.096146
+image time: 2024-06-22 18:39:02.667
+The current time is: 2.6902
+Sending data: -0.092679
+image time: 2024-06-22 18:39:02.715
+The current time is: 2.737
+Sending data: -0.087999
+image time: 2024-06-22 18:39:02.779
+The current time is: 2.8003
+Sending data: -0.082167
+image time: 2024-06-22 18:39:02.828
+The current time is: 2.8497
+Sending data: -0.075422
+image time: 2024-06-22 18:39:02.876
+The current time is: 2.8998
+Sending data: -0.06809
+image time: 2024-06-22 18:39:02.924
+The current time is: 2.945
+Sending data: -0.060466
+image time: 2024-06-22 18:39:02.987
+The current time is: 3.0099
+Sending data: -0.052755
+image time: 2024-06-22 18:39:03.036
+The current time is: 3.0572
+Sending data: -0.045052
+image time: 2024-06-22 18:39:03.083
+The current time is: 3.1051
+Sending data: -0.037401
+image time: 2024-06-22 18:39:03.131
+The current time is: 3.1535
+Sending data: -0.029867
+image time: 2024-06-22 18:39:03.195
+The current time is: 3.2174
+Sending data: -0.022589
+image time: 2024-06-22 18:39:03.244
+The current time is: 3.2656
+Sending data: -0.015777
+image time: 2024-06-22 18:39:03.291
+The current time is: 3.3125
+Sending data: -0.0096539
+image time: 2024-06-22 18:39:03.355
+The current time is: 3.3759
+Sending data: -0.0043687
+image time: 2024-06-22 18:39:03.403
+The current time is: 3.4238
+Sending data: 7.3752e-05
+image time: 2024-06-22 18:39:03.451
+The current time is: 3.4732
+Sending data: 0.0038245
+image time: 2024-06-22 18:39:03.499
+The current time is: 3.5202
+Sending data: 0.0071352
+image time: 2024-06-22 18:39:03.563
+The current time is: 3.5854
+Sending data: 0.010259
+image time: 2024-06-22 18:39:03.611
+The current time is: 3.6332
+Sending data: 0.013354
+image time: 2024-06-22 18:39:03.659
+The current time is: 3.6816
+Sending data: 0.016438
+image time: 2024-06-22 18:39:03.708
+The current time is: 3.7292
+Sending data: 0.019415
+image time: 2024-06-22 18:39:03.771
+The current time is: 3.7925
+Sending data: 0.022163
+image time: 2024-06-22 18:39:03.819
+The current time is: 3.8404
+Sending data: 0.024637
+image time: 2024-06-22 18:39:03.867
+The current time is: 3.8888
+Sending data: 0.026928
+image time: 2024-06-22 18:39:03.915
+The current time is: 3.9357
+Sending data: 0.02925
+image time: 2024-06-22 18:39:03.979
+The current time is: 4.001
+Sending data: 0.031852
+image time: 2024-06-22 18:39:04.027
+The current time is: 4.0495
+Sending data: 0.034891
+image time: 2024-06-22 18:39:04.075
+The current time is: 4.0973
+Sending data: 0.038337
+image time: 2024-06-22 18:39:04.139
+The current time is: 4.1617
+Sending data: 0.041954
+image time: 2024-06-22 18:39:04.187
+The current time is: 4.2084
+Sending data: 0.045382
+image time: 2024-06-22 18:39:04.235
+The current time is: 4.2571
+Sending data: 0.048282
+image time: 2024-06-22 18:39:04.284
+The current time is: 4.3048
+Sending data: 0.050502
+image time: 2024-06-22 18:39:04.347
+The current time is: 4.3704
+Sending data: 0.052172
+image time: 2024-06-22 18:39:04.395
+The current time is: 4.42
+Sending data: 0.053695
+image time: 2024-06-22 18:39:04.443
+The current time is: 4.4664
+Sending data: 0.055626
+image time: 2024-06-22 18:39:04.491
+The current time is: 4.5133
+Sending data: 0.058484
+image time: 2024-06-22 18:39:04.556
+The current time is: 4.5766
+Sending data: 0.062567
+image time: 2024-06-22 18:39:04.603
+The current time is: 4.6249
+Sending data: 0.067843
+image time: 2024-06-22 18:39:04.651
+The current time is: 4.6734
+Sending data: 0.073953
+image time: 2024-06-22 18:39:04.699
+The current time is: 4.7194
+Sending data: 0.080322
+image time: 2024-06-22 18:39:04.763
+The current time is: 4.7876
+Sending data: 0.086327
+image time: 2024-06-22 18:39:04.811
+The current time is: 4.8324
+Sending data: 0.09147
+image time: 2024-06-22 18:39:04.859
+The current time is: 4.8811
+Sending data: 0.095488
+image time: 2024-06-22 18:39:04.924
+The current time is: 4.9475
+Sending data: 0.09838
+image time: 2024-06-22 18:39:04.972
+The current time is: 4.9944
+Sending data: 0.10035
+image time: 2024-06-22 18:39:05.019
+The current time is: 5.0414
+Sending data: 0.10169
+image time: 2024-06-22 18:39:05.068
+The current time is: 5.0908
+Sending data: 0.10272
+image time: 2024-06-22 18:39:05.131
+The current time is: 5.1531
+Sending data: 0.10366
+image time: 2024-06-22 18:39:05.179
+The current time is: 5.2009
+Sending data: 0.10462
+image time: 2024-06-22 18:39:05.227
+The current time is: 5.2485
+Sending data: 0.1056
+image time: 2024-06-22 18:39:05.275
+The current time is: 5.2983
+Sending data: 0.10655
+image time: 2024-06-22 18:39:05.339
+The current time is: 5.3595
+Sending data: 0.10735
+image time: 2024-06-22 18:39:05.387
+The current time is: 5.4097
+Sending data: 0.1079
+image time: 2024-06-22 18:39:05.435
+The current time is: 5.4584
+Sending data: 0.10811
+image time: 2024-06-22 18:39:05.484
+The current time is: 5.5072
+Sending data: 0.10791
+image time: 2024-06-22 18:39:05.547
+The current time is: 5.5686
+Sending data: 0.10724
+image time: 2024-06-22 18:39:05.595
+The current time is: 5.6173
+Sending data: 0.10609
+image time: 2024-06-22 18:39:05.643
+The current time is: 5.6648
+Sending data: 0.10445
+image time: 2024-06-22 18:39:05.707
+The current time is: 5.7286
+Sending data: 0.1023
+image time: 2024-06-22 18:39:05.755
+The current time is: 5.7759
+Sending data: 0.099612
+image time: 2024-06-22 18:39:05.803
+The current time is: 5.8259
+Sending data: 0.096371
+image time: 2024-06-22 18:39:05.851
+The current time is: 5.8734
+Sending data: 0.092566
+image time: 2024-06-22 18:39:05.915
+The current time is: 5.9391
+Sending data: 0.088246
+image time: 2024-06-22 18:39:05.963
+The current time is: 5.9845
+Sending data: 0.083539
+image time: 2024-06-22 18:39:06.011
+The current time is: 6.0324
+Sending data: 0.07865
+image time: 2024-06-22 18:39:06.059
+The current time is: 6.0798
+Sending data: 0.073821
+image time: 2024-06-22 18:39:06.123
+The current time is: 6.1447
+Sending data: 0.069251
+image time: 2024-06-22 18:39:06.171
+The current time is: 6.1929
+Sending data: 0.06501
+image time: 2024-06-22 18:39:06.219
+The current time is: 6.2409
+Sending data: 0.060971
+image time: 2024-06-22 18:39:06.268
+The current time is: 6.2882
+Sending data: 0.056807
+image time: 2024-06-22 18:39:06.331
+The current time is: 6.3526
+Sending data: 0.05206
+image time: 2024-06-22 18:39:06.380
+The current time is: 6.4015
+Sending data: 0.046275
+image time: 2024-06-22 18:39:06.427
+The current time is: 6.4479
+Sending data: 0.039144
+image time: 2024-06-22 18:39:06.491
+The current time is: 6.5137
+Sending data: 0.030622
+image time: 2024-06-22 18:39:06.539
+The current time is: 6.561
+Sending data: 0.020962
+image time: 2024-06-22 18:39:06.587
+The current time is: 6.609
+Sending data: 0.010652
+image time: 2024-06-22 18:39:06.635
+The current time is: 6.6574
+Sending data: 0.00028935
+image time: 2024-06-22 18:39:06.699
+The current time is: 6.7222
+Sending data: -0.0095699
+image time: 2024-06-22 18:39:06.747
+The current time is: 6.7695
+Sending data: -0.018528
+image time: 2024-06-22 18:39:06.796
+The current time is: 6.8176
+Sending data: -0.026385
+image time: 2024-06-22 18:39:06.843
+The current time is: 6.8659
+Sending data: -0.033111
+image time: 2024-06-22 18:39:06.907
+The current time is: 6.9297
+Sending data: -0.038738
+image time: 2024-06-22 18:39:06.955
+The current time is: 6.977
+Sending data: -0.043328
+image time: 2024-06-22 18:39:07.004
+The current time is: 7.0271
+Sending data: -0.046927
+image time: 2024-06-22 18:39:07.052
+The current time is: 7.0743
+Sending data: -0.049577
+image time: 2024-06-22 18:39:07.115
+The current time is: 7.1372
+Sending data: -0.051363
+image time: 2024-06-22 18:39:07.163
+The current time is: 7.1844
+Sending data: -0.052487
+image time: 2024-06-22 18:39:07.211
+The current time is: 7.2334
+Sending data: -0.053287
+image time: 2024-06-22 18:39:07.275
+The current time is: 7.2968
+Sending data: -0.054151
+image time: 2024-06-22 18:39:07.324
+The current time is: 7.345
+Sending data: -0.055395
+image time: 2024-06-22 18:39:07.372
+The current time is: 7.3935
+Sending data: -0.057162
+image time: 2024-06-22 18:39:07.419
+The current time is: 7.4413
+Sending data: -0.059391
+image time: 2024-06-22 18:39:07.483
+The current time is: 7.5047
+Sending data: -0.061874
+image time: 2024-06-22 18:39:07.531
+The current time is: 7.5541
+Sending data: -0.064366
+image time: 2024-06-22 18:39:07.579
+The current time is: 7.6039
+Sending data: -0.066696
+image time: 2024-06-22 18:39:07.627
+The current time is: 7.6478
+Sending data: -0.068821
+image time: 2024-06-22 18:39:07.691
+The current time is: 7.7141
+Sending data: -0.070805
+image time: 2024-06-22 18:39:07.739
+The current time is: 7.7604
+Sending data: -0.07274
+image time: 2024-06-22 18:39:07.787
+The current time is: 7.8084
+Sending data: -0.074659
+image time: 2024-06-22 18:39:07.835
+The current time is: 7.8565
+Sending data: -0.07649
+image time: 2024-06-22 18:39:07.899
+The current time is: 7.9203
+Sending data: -0.078095
+image time: 2024-06-22 18:39:07.947
+The current time is: 7.9699
+Sending data: -0.079345
+image time: 2024-06-22 18:39:07.995
+The current time is: 8.0178
+Sending data: -0.080225
+image time: 2024-06-22 18:39:08.044
+The current time is: 8.0658
+Sending data: -0.080883
+image time: 2024-06-22 18:39:08.107
+The current time is: 8.1305
+Sending data: -0.081597
+image time: 2024-06-22 18:39:08.155
+The current time is: 8.1778
+Sending data: -0.082679
+image time: 2024-06-22 18:39:08.203
+The current time is: 8.2257
+Sending data: -0.08434
+image time: 2024-06-22 18:39:08.267
+The current time is: 8.289
+Sending data: -0.086586
+image time: 2024-06-22 18:39:08.315
+The current time is: 8.3369
+Sending data: -0.089195
+image time: 2024-06-22 18:39:08.363
+The current time is: 8.3848
+Sending data: -0.091774
+image time: 2024-06-22 18:39:08.411
+The current time is: 8.4327
+Sending data: -0.093883
+image time: 2024-06-22 18:39:08.475
+The current time is: 8.498
+Sending data: -0.09516
+image time: 2024-06-22 18:39:08.523
+The current time is: 8.5438
+Sending data: -0.095416
+image time: 2024-06-22 18:39:08.571
+The current time is: 8.5934
+Sending data: -0.094646
+image time: 2024-06-22 18:39:08.620
+The current time is: 8.6423
+Sending data: -0.092992
+image time: 2024-06-22 18:39:08.684
+The current time is: 8.7056
+Sending data: -0.090664
+image time: 2024-06-22 18:39:08.732
+The current time is: 8.7529
+Sending data: -0.087864
+image time: 2024-06-22 18:39:08.780
+The current time is: 8.8018
+Sending data: -0.084749
+image time: 2024-06-22 18:39:08.827
+The current time is: 8.8487
+Sending data: -0.081424
+image time: 2024-06-22 18:39:08.891
+The current time is: 8.914
+Sending data: -0.07796
+image time: 2024-06-22 18:39:08.939
+The current time is: 8.96
+Sending data: -0.074412
+image time: 2024-06-22 18:39:08.987
+The current time is: 9.0099
+Sending data: -0.070825
+image time: 2024-06-22 18:39:09.051
+The current time is: 9.0733
+Sending data: -0.067229
+image time: 2024-06-22 18:39:09.099
+The current time is: 9.1331
+Sending data: -0.063624
+image time: 2024-06-22 18:39:09.148
+The current time is: 9.1684
+Sending data: -0.059981
+image time: 2024-06-22 18:39:09.195
+The current time is: 9.2164
+Sending data: -0.056253
+image time: 2024-06-22 18:39:09.259
+The current time is: 9.2807
+Sending data: -0.052405
+image time: 2024-06-22 18:39:09.307
+The current time is: 9.3286
+Sending data: -0.048438
+image time: 2024-06-22 18:39:09.355
+The current time is: 9.377
+Sending data: -0.044402
+image time: 2024-06-22 18:39:09.403
+The current time is: 9.4245
+Sending data: -0.040385
+image time: 2024-06-22 18:39:09.467
+The current time is: 9.4888
+Sending data: -0.036491
+image time: 2024-06-22 18:39:09.515
+The current time is: 9.5366
+Sending data: -0.032812
+image time: 2024-06-22 18:39:09.563
+The current time is: 9.585
+Sending data: -0.029403
+image time: 2024-06-22 18:39:09.611
+The current time is: 9.6339
+Sending data: -0.026282
+image time: 2024-06-22 18:39:09.675
+The current time is: 9.6972
+Sending data: -0.023439
+image time: 2024-06-22 18:39:09.723
+The current time is: 9.744
+Sending data: -0.020849
+image time: 2024-06-22 18:39:09.771
+The current time is: 9.7935
+Sending data: -0.018488
+image time: 2024-06-22 18:39:09.835
+The current time is: 9.8558
+Sending data: -0.016331
+image time: 2024-06-22 18:39:09.883
+The current time is: 9.9036
+Sending data: -0.014356
+image time: 2024-06-22 18:39:09.931
+The current time is: 9.9526
+Sending data: -0.012535
+image time: 2024-06-22 18:39:09.979
+The current time is: 10
+Sending data: -0.01084
+image time: 2024-06-22 18:39:10.043
+The current time is: 10.0653
+Sending data: -0.009246
+image time: 2024-06-22 18:39:10.091
+The current time is: 10.1121
+Sending data: -0.0077417
+image time: 2024-06-22 18:39:10.139
+The current time is: 10.1596
+Sending data: -0.0063351
+image time: 2024-06-22 18:39:10.187
+The current time is: 10.2094
+Sending data: -0.0050492
+image time: 2024-06-22 18:39:10.251
+The current time is: 10.2737
+Sending data: -0.0039125
+image time: 2024-06-22 18:39:10.299
+The current time is: 10.3195
+Sending data: -0.0029462
+image time: 2024-06-22 18:39:10.347
+The current time is: 10.369
+Sending data: -0.0021547
+image time: 2024-06-22 18:39:10.395
+The current time is: 10.417
+Sending data: -0.0015253
+image time: 2024-06-22 18:39:10.459
+The current time is: 10.4812
+Sending data: -0.0010338
+image time: 2024-06-22 18:39:10.507
+The current time is: 10.528
+Sending data: -0.00065449
+image time: 2024-06-22 18:39:10.556
+The current time is: 10.5775
+Sending data: -0.00036813
+image time: 2024-06-22 18:39:10.603
+The current time is: 10.6264
+Sending data: -0.00016465
+image time: 2024-06-22 18:39:10.667
+The current time is: 10.6883
+Sending data: -4.1525e-05
+image time: 2024-06-22 18:39:10.715
+The current time is: 10.736
+Sending data: 0
