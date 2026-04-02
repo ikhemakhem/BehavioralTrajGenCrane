@@ -1,8 +1,8 @@
+<<<<<<< HEAD
 # Complementary Material
 
 This folder contains the supplementary MATLAB code and data for the behavioral data-driven trajectory-generation method.
 
-Only the `Code/` folder is part of the complementary material. No LaTeX sources are included here.
 
 ## Folder Structure
 
@@ -10,6 +10,8 @@ Only the `Code/` folder is part of the complementary material. No LaTeX sources 
   Bundled data used by the scripts.
 - `utils/`
   MATLAB helper functions for data processing, behavioral simulation, and trajectory generation.
+- `utils/` 
+   scrit used for the comparison with model-based benchmark.
 - `grid_search_nonparametricSim_simulative.m`
   Simulative nonparametric-simulation study and tuning of `(delta, lambda, nu)`.
 - `traj_generation_grid_search.m`
@@ -30,12 +32,6 @@ This release contains the core behavioral / nonparametric method used in the pap
 - direct behavioral optimal trajectory generation with smoothness and boundary constraints,
 - experimental preprocessing utilities such as pixel-to-world conversion and Kalman filtering.
 
-## What Is Not Included
-
-The following paper-related items are not part of this code release:
-
-- the model-based benchmark trajectory-generation code,
-- the controllability-analysis derivations / symbolic appendix material.
 
 ## Data
 
@@ -77,3 +73,4 @@ The code relies on:
 - Signal Processing Toolbox.
 
 The manuscript mentions MOSEK. In practice, MOSEK can be used as the CVX solver backend, but the code is written at the CVX level.
+
