@@ -4,7 +4,7 @@
     m = 1; 
     n = 6;
     L = 500;
-    q = 5; % input + output = size(w(t))
+    q = 5;     % stacked sample size; includes ddtheta4 plus theta1, theta2, theta4, dtheta4
 %%
     [H_w, ud, yd, wd] = pageMatrixData(L);
 
@@ -30,8 +30,7 @@
     % Test input condition
     H_u_willems = blkhank(ud, L+n);
     disp(['Is Willems Lemma condition satisfied? ', num2str(rank(H_u_willems) >= m*L+n)]);
-    H_u_berberich = blkhank(ud, L+n+1);
-    disp(['Is Berberich condition satisfied? ', num2str(rank(H_u_berberich) >= m*(L+n+1))]);
+
     %% load input sequences
     init_cond = 20;
     input_sequences = {};
@@ -53,64 +52,13 @@
     end
     
     %% load measured trajectories and reorganize them
-    cutoffFreq = 8/20; % Cutoff frequency
-    [lpb, lpa] = butter(5, cutoffFreq, 'low');
-    theta_3 = pi/2 - 0.76;
-    rope_length = 1; 
-    theta_4_offset = 0;
-    z_boom = 1.55;
-    measured_trajectories = {};
-%     for i=1:15
-%         results_pattern = sprintf('results_seq_sim_%d.mat', i);
-%         results_data = load(results_pattern);
-%         theta_4 = cellfun(@(c) c{4}, results_data.vision_data);
-%         theta_1 = cellfun(@(c) c{5}, results_data.vision_data);
-%         theta_2 = cellfun(@(c) c{6}, results_data.vision_data);
-%         
-%         theta_4 = filtfilt(lpb, lpa, theta_4);
-%         theta_1 = filtfilt(lpb, lpa, theta_1);
-%         theta_2 = filtfilt(lpb, lpa, theta_2);
-% 
-%         traj = [];
-%         for j=1:length(results_data.vision_data)
-%             traj = [traj; results_data.vision_data{j,1}{3}; theta_1(j); theta_2(j); theta_4(j); results_data.vision_data{j,1}{2}];
-%         end
-%         measured_trajectories{i} = traj;
-%     end
+    measured_trajectories = cell(15,1);
 
     for i=1:15
         results_pattern = sprintf('results_seq_sim_500_%d.mat', i);
         results_data = load(results_pattern);
-        
-        raw_vision_data = results_data.raw_vision_data;
-        vision_data = results_data.vision_data;
-        dtheta_4 = cellfun(@(c) c{2}, vision_data);
-        ddtheta_4 = cellfun(@(c) c{3}, vision_data);
-        t4 = cellfun(@(c) c{4}, raw_vision_data);
-        u = cellfun(@(c) c{5}, raw_vision_data);
-        v = cellfun(@(c) c{6}, raw_vision_data);
 
-        theta_4_ = [];
-        theta_1_ = [];
-        theta_2_ = [];
-        for j=1:length(u)
-            [theta1_i, theta2_i, theta4_i] = pixels_to_world(u(j), v(j), t4(j), theta_3, rope_length, theta_4_offset, z_boom);
-            theta_1_ = [theta_1_; 1.7*theta1_i];
-            theta_2_ = [theta_2_; 1.7*theta2_i];
-            theta_4_ = [theta_4_; theta4_i];
-        end
-        theta_1_mean = mean(theta_1_);
-        theta_1_ = theta_1_ - theta_1_mean*ones(length(theta_1_),1);
-        theta_2_mean = mean(theta_2_);
-        theta_2_ = theta_2_ - theta_2_mean*ones(length(theta_2_),1);
-
-        theta_1 = filtfilt(lpb, lpa, theta_1_);
-        theta_2 = filtfilt(lpb, lpa, theta_2_);
-        theta_4 = linear_kalman(ddtheta_4, [theta_4_, dtheta_4]);
-        theta_4 = theta_4(:,1);
-        traj = [ddtheta_4, theta_1, theta_2, theta_4, dtheta_4]';
-        traj = traj(:);
-        measured_trajectories{i} = traj;
+        measured_trajectories{i} = organize_measured_trajectory(results_data);
     end
     %%
     % Define parameter ranges
@@ -228,35 +176,7 @@
 
         results_pattern = sprintf('results_seq_sim_500_%d.mat', i);
         results_data = load(results_pattern);
-        
-        raw_vision_data = results_data.raw_vision_data;
-        vision_data = results_data.vision_data;
-        dtheta_4 = cellfun(@(c) c{2}, vision_data);
-        ddtheta_4 = cellfun(@(c) c{3}, vision_data);
-        t4 = cellfun(@(c) c{4}, raw_vision_data);
-        u = cellfun(@(c) c{5}, raw_vision_data);
-        v = cellfun(@(c) c{6}, raw_vision_data);
-
-        theta_4_ = [];
-        theta_1_ = [];
-        theta_2_ = [];
-        for j=1:length(u)
-            [theta1_i, theta2_i, theta4_i] = pixels_to_world(u(j), v(j), t4(j), theta_3, rope_length, theta_4_offset, z_boom);
-            theta_1_ = [theta_1_; 1.7*theta1_i];
-            theta_2_ = [theta_2_; 1.7*theta2_i];
-            theta_4_ = [theta_4_; theta4_i];
-        end
-        theta_1_mean = mean(theta_1_);
-        theta_1_ = theta_1_ - theta_1_mean*ones(length(theta_1_),1);
-        theta_2_mean = mean(theta_2_);
-        theta_2_ = theta_2_ - theta_2_mean*ones(length(theta_2_),1);
-
-        theta_1 = filtfilt(lpb, lpa, theta_1_);
-        theta_2 = filtfilt(lpb, lpa, theta_2_);
-        theta_4 = linear_kalman(ddtheta_4, [theta_4_, dtheta_4]);
-        theta_4 = theta_4(:,1);
-        w_meas = [ddtheta_4, theta_1, theta_2, theta_4, dtheta_4]';
-        w_meas = w_meas(:);
+        w_meas = organize_measured_trajectory(results_data);
 
         w_vec_given = [w_meas(1:q*init_cond); input_seq];
         w_dd = simulate_dd_system(H_w_trunc, I_given, w_vec_given, m, n, L, q, lambda, init_cond);
@@ -311,6 +231,7 @@
 
     end
     %%     Define the objective function for Bayesian optimization
+    % Evaluate one simulation hyperparameter tuple on measured trajectories.
     function cost = objective_function(svd_data, lambda, input_sequences, measured_trajectories, m, n, L, q, init_cond)
         %init_cond = params.init_cond; % Assuming init_cond is fixed as 3
 %         threshold = params.threshold;

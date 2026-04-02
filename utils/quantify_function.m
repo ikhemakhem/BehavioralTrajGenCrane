@@ -1,4 +1,4 @@
-% function to measure the quality of the generate trajectory
+% Score a generated trajectory using time, sway, smoothness, and overshoot.
 
 function cost = quantify_function(w, target, T_target, dt, L, q)
     u = w(1:q:end);

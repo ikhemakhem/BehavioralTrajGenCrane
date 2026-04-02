@@ -1,3 +1,4 @@
+% Construct a block Page matrix from a stacked trajectory.
 function P = blkPage(w, L)
     [T,q] = size(w);
     P = [];

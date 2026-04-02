@@ -6,7 +6,7 @@ dt = 0.05; % time step
 m = 1;
 n = 6;
 L = 500;
-q = 5; % input + output = size(w(t))
+q = 5; % stacked sample size; includes ddtheta4 plus theta1, theta2, theta4, dtheta4
 
 %% 1) Generate data
 %buffer = 1000;  % 1193 =  max buffer -1
@@ -381,6 +381,7 @@ set(fig, 'Position', [0, 0, width, height]); % [left, bottom, width, height]
 set(fig, 'PaperSize', [width, height]);
 
 %%
+% Evaluate one trajectory-generation hyperparameter tuple.
 function cost = run_traj_generation(params, H_w,  w_vec_given, dt, m, n, L, q, coefs)
     % Unpack mu and sigma from the structure
     mu = params.mu;

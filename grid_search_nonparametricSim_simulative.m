@@ -24,7 +24,7 @@ dt = 0.05;            % time step [s]
 m = 1;                % number of inputs (adjust to your system)
 n = 6;                % system order (or expected dimension)
 L = 300;              % length of each trajectory (time steps)
-q = 5;                % dimension of the stacked signal w(t) (input+outputs)
+q = 5;                % stacked sample size; includes ddtheta4 plus 4 measured outputs
 
 % noise flag for data generation
 noise = false;
@@ -244,6 +244,7 @@ legend('data driven', 'model');
 hold off;
 
 %% --------------------- Objective function used in grid search ------------
+% Evaluate one hyperparameter tuple by comparing data-driven and model outputs.
 function cost = objective_function(svd_data, lambda, input_sequences, dt, m, n, L, q, init_cond)
 % cost = objective_function(svd_data, lambda, input_sequences,...)
 %   Runs multiple simulations comparing the data-driven predictor (based on

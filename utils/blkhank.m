@@ -1,3 +1,4 @@
+% Construct a block Hankel matrix from trajectory data.
 function H = blkhank(w, i, j)
     if length(size(w)) == 3 
       [q, N, T]  = size(w);

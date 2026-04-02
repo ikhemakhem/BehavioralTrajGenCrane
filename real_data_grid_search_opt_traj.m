@@ -6,7 +6,7 @@ dt = 0.05; % time step
 m = 1;
 n = 6;
 L = 500;
-q = 4; % input + output = size(w(t))
+q = 5; % stacked sample size; includes ddtheta4 plus theta1, theta2, theta4, dtheta4
 
 %% 1) Generate data
 [H_w, ud, yd, wd] = pageMatrixFromData(L);
@@ -255,6 +255,7 @@ position = w_opt(4:q:end);
 save('opt_traj_500_5_input.mat','position', 'velocity', 'acceleration');
 
 %%
+% Evaluate one trajectory-generation hyperparameter tuple.
 function cost = run_traj_generation(params, H_w,  w_vec_given, dt, m, n, L, q, coefs)
     % Unpack mu and sigma from the structure
     mu = params.mu;

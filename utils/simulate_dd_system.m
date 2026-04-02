@@ -1,5 +1,4 @@
-% simulate crane dynamics and output the results in the same format of a
-% trajectory in the behavioral settings
+% Recover a full trajectory from partial data using the behavioral model.
 function w_dd = simulate_dd_system(H_w, I_given, w_vec_given, m, n, L, q, lambda, init_cond)
     H_w_given = H_w(I_given,:);  
         %% Data-driven interpolation

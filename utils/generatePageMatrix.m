@@ -1,3 +1,4 @@
+% Generate simulated crane trajectories and assemble the data matrix.
 function [P, ud, yd, wd] = generatePageMatrix(numberOfTraj, L, q, dt, noise)
     P = [];
     maxAmplitude = abs(3/(30/pi*243*(-1/100))); % 2V changed to rad/s;

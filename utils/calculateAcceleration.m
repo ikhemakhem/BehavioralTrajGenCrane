@@ -1,4 +1,4 @@
-% compute derivative of the velocity to compute the acceleration.
+% Estimate acceleration by numerically differentiating a velocity profile.
 function acceleration = calculateAcceleration(velocity, time)
     % This function calculates the acceleration from a given velocity array using a fourth-order central difference method.
     % Input:

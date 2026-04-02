@@ -1,5 +1,4 @@
-% generate random input from summing up 20 sine function, smoothing the
-% function and taper it at the end.
+% Generate a smooth random velocity input using summed sines and tapering.
 
 function input = generate_random_input(numPoints, maxAmplitude)
 

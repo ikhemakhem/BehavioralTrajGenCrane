@@ -1,3 +1,4 @@
+% Simulate the crane model from initial conditions and a given input sequence.
 function w_model = simulate_model(w_vec_given, dt, init_cond, q)
 
 w_init = w_vec_given(1:q*init_cond);

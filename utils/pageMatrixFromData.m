@@ -1,3 +1,4 @@
+% Build a data matrix from the bundled processed crane-data files.
 function [P, ud, yd, wd] = pageMatrixFromData(L)
     % PAGE MATRIX FROM DATA
     % This function loads pre-saved input and result files numbered sequentially
@@ -7,7 +8,7 @@ function [P, ud, yd, wd] = pageMatrixFromData(L)
     thisFile  = mfilename('fullpath');        % full path of this .m file
     thisFolder = fileparts(thisFile);         % folder where this file is located
     parentFolder = fileparts(thisFolder);     % go one folder up
-    dataFolder = fullfile(parentFolder, 'data\crane_data\');  % go into 'data' folder
+    dataFolder = fullfile(parentFolder, 'data', 'crane_data');  % bundled processed crane-data folder
 
     cd(dataFolder);
 
