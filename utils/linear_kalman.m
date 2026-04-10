@@ -13,7 +13,7 @@ function x_est_store = linear_kalman(u_series, y_series)
     % Convert continuous system to discrete system
     sys_continuous = ss(A, B, C, D);
     sys_discrete = c2d(sys_continuous, T);
-    [Ad, Bd, Cd, Dd] = ssdata(sys_discrete);
+    [Ad, Bd, Cd, ~]  = ssdata(sys_discrete);
     
     % Define the covariance matrices
     Q = [0 0; 0.0 0];  % Process noise covariance

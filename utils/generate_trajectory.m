@@ -72,43 +72,23 @@ function [w_opt, cost] = generate_trajectory(H_w,  w_vec_given, dt, m, n, L, q, 
         % - Enforce start/target (boundary) conditions on the known-entry reconstruction.
         % - Enforce inequality limits (e.g., angle/velocity/acceleration bounds) on full trajectory.
         subject to
-            B*H_w_given*g == c
-            M*H_w*g <= d
+            B * H_w_given * g == c  % CVX equality constraint
+            M * H_w * g <= d        % CVX inequality constraint
     cvx_end
-    
-    % Extract optimal solution and objective value reported by CVX.
-    g_opt     = g;
-    lasso_val = cvx_optval; %#ok<NASGU> % stored for debugging if needed
-    
-    % Diagnostics: sparsity level of g_opt.
-    disp(['Nuclear norm upper value ', num2str(L*m+n)]);
-    disp(['Sparsity of optimal solution ', num2str(sum(abs(g_opt) > (1e-4)*ones(size(g_opt))))]);
-    
-    % Reconstruct optimal trajectory in original signal space.
-    w_opt = H_w*g_opt;
 
-    % Compute time to reach target based on the reference terminal value.
+    g_opt = g;
+
+    % Diagnostics: sparsity level of g_opt.
+    disp(['Nuclear norm upper bound: ', num2str(L*m + n)]);
+    disp(['Sparsity of g (|g|>1e-4): ', num2str(sum(abs(g_opt) > 1e-4))]);
+
+    % Reconstruct optimal trajectory in original signal space.
+    w_opt = H_w * g_opt;
+
+    % Cost: time-to-target, sway, smoothness, overshoot.
     target   = wr(end-1);
     T_target = time_to_reach_target(w_opt, target, deg2rad(2), 5, dt, q);
-
-    % Compare reconstructed trajectory to a simulated model response.
-    % Uses a short initialization window, then samples every q-th element afterwards.
-    init_cond           = 20;
-    I_given_simulation  = [[1:q*init_cond]'; [q*init_cond+1:q:length(w_opt)]'];
-    w_given_simulation  = w_opt(I_given_simulation);
-    w_model             = simulate_model(w_given_simulation, dt, init_cond, q);
-
-    % Primary cost term (problem-specific metric).
-    cost_1 = quantify_function(w_opt, target, T_target, dt, L, q);
-
-    % Secondary cost term: discrepancy to simulation (with selected elements excluded).
-    w_opt_filtered   = exclude_5q_plus_2_elements(w_opt);
-    w_model_filtered = exclude_5q_plus_2_elements(w_model);
-    cost_2           = sqrt((w_opt_filtered - w_model_filtered)' * (w_opt_filtered - w_model_filtered)); %#ok<NASGU>
-
-    % Combined cost (currently overridden below).
-    cost = cost_1 + 2*cost_2;
-    cost = cost_1;   % NOTE: final output cost currently ignores cost_2.
+    cost     = quantify_function(w_opt, target, T_target, dt, L, q);
     
     % Optional plotting of key components of the trajectory.
     if show_fig
@@ -176,23 +156,10 @@ function [w_opt, cost] = generate_trajectory(H_w,  w_vec_given, dt, m, n, L, q, 
 
     % Optional detailed diagnostics about rank/consistency/uniqueness.
     if show_final_result
-        disp(['Will solution be unique?: ' num2str(rank(H_w_given) == rank(H_w))]);
-        disp(['sum of g ', num2str(ones(1, size(H_w_given, 2)) * g_opt)]);
-        disp(['Nuclear norm upper value ', num2str(L*m+n)]);
-        disp(['Sparsity of optimal solution ', num2str(sum(abs(g_opt) > (1e-4)*ones(size(g_opt))))]);
+        disp(['Will solution be unique?: ',         num2str(rank(H_w_given) == rank(H_w))]);
+        disp(['Sum of g: ',                         num2str(sum(g_opt))]);
+        disp(['Nuclear norm upper bound: ',         num2str(L*m + n)]);
+        disp(['Sparsity of g (|g|>1e-4): ',         num2str(sum(abs(g_opt) > 1e-4))]);
         disp(['Is optimal trajectory consistent?: ', num2str(rank([w_opt, H_w]) == rank(H_w))]);
     end
-end
-
-% Exclude every element whose index i satisfies mod(i,5)==2 by setting it to zero.
-% (Despite the name, this excludes "2 mod 5" entries; q is not used here.)
-function filtered_array = exclude_5q_plus_2_elements(array)
-    indices_to_exclude = [];
-    for i = 1:length(array)
-        if mod(i, 5) == 2
-            indices_to_exclude = [indices_to_exclude, i]; %#ok<AGROW>
-        end
-    end
-    filtered_array = array;
-    filtered_array(indices_to_exclude) = 0;
 end
