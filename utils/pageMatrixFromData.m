@@ -1,6 +1,6 @@
 % Build the data matrix from the bundled processed crane-data files.
 %
-% Loads all paired input/result sequences from data/crane_data/ and assembles
+% Loads all paired input/result sequences from data/training_data/ and assembles
 % the block Hankel matrix P together with aggregate data arrays ud, yd, wd.
 % The data folder is located relative to this file, so the function works
 % regardless of the caller's working directory.
@@ -16,7 +16,7 @@
 
 function [P, ud, yd, wd] = pageMatrixFromData(L)
     thisFolder = fileparts(mfilename('fullpath'));
-    dataFolder = fullfile(fileparts(thisFolder), 'data', 'crane_data');
+    dataFolder = fullfile(fileparts(thisFolder), 'data', 'training_data');
 
     inputFiles = dir(fullfile(dataFolder, 'input_seq_*.mat'));
     inputFiles = sort({inputFiles.name});   % ensure sorted order

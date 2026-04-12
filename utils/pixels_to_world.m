@@ -1,9 +1,9 @@
 % Convert a camera pixel observation into crane load and boom angles.
 %
 % Uses the calibrated camera intrinsic matrix K and extrinsic parameters
-% (rotation A_WP, translation W_r_OP) stored in data/Camera_Coordinates_June_Mean.mat.
+% (rotation A_WP, translation W_r_OP) stored in data/camera_coordinates.mat.
 % The calibration was obtained with a standard RGB camera using a PnP solver
-% (see data/Camera_Coordinates_June_Mean.mat).
+% (see data/camera_coordinates.mat).
 %
 % Inputs:
 %   u              - pixel column of the load marker
@@ -22,7 +22,7 @@
 function [theta_1, theta_2, theta_4] = pixels_to_world(u, v, theta_4, theta_3, rope_length, theta_4_offset, z_boom)
     % Load camera extrinsic calibration from the bundled data folder.
     thisFolder  = fileparts(mfilename('fullpath'));
-    calibFile   = fullfile(fileparts(thisFolder), 'data', 'Camera_Coordinates_June_Mean.mat');
+    calibFile   = fullfile(fileparts(thisFolder), 'data', 'camera_coordinates.mat');
     calib       = load(calibFile, 'A_WP', 'W_r_OP');
     A_WP  = calib.A_WP;
     W_r_OP = calib.W_r_OP;
